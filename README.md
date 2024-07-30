@@ -1,24 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
-<h3 align="center">"Transforming challenges into opportunities."</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanthhks&label=Profile%20views&color=0e75b6&style=flat" alt="nishanthhks" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nishanthhks" target="blank"><img src="https://img.shields.io/twitter/follow/nishanthhks?logo=twitter&style=for-the-badge" alt="nishanthhks" /></a> </p>
-
-- 🔭 I’m currently working on **UPSKILLING**
-
-- 🌱 I’m currently learning **React, Backend etc...**
-
-- 👯 I’m looking to collaborate on **Dev Projects**
-
-- 🤝 I’m looking for help with **Internships**
-
-- 📫 How to reach me **nishanth.kkps@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
