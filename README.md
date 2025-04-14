@@ -1,33 +1,7 @@
+## Hi, I'm Nishanth
 
+I'm a student at **BMS College of Engineering**, passionate about **Application design**, **Cloud computing**, and **Devops**. I'm currently learning cloud platforms and DevOps tools to expand my backend and infrastructure skills.
 
-<!--
-<div id="toc">
-  <ul align="left" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Nishanth
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-
-
-
-
-**<h1 align="left">Connect with me:</h1>** 
-<p align="left"><a href="https://www.linkedin.com/in/nishanthhks" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/nishanthhks" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="nishanth.kkps@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
-
-
-
-
- **<h1 align="left">Skills</h1>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="40" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="40" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="40" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" height="40" alt="C" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="40" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="40" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="40" alt="Mongoose" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="40" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="40" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="40" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="40" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="40" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="40" alt="Firebase" style="margin-right: 4px"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="32" alt="CSS3" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="32" alt="Vite" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="32" alt="HTML5" style="margin-right: 4px"></div>
-
-<br>
-
-
- ><h3 align="left">🚀Explore, Learn, Create, Innovate</h3>
-
--->
+---
+## Knows a bit of 
+![Next.js](https://img.shields.io/badge/Frontend/backend-Next.js-000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![ShadCN](https://img.shields.io/badge/UI-ShadCN-18181B?logo=tailwindcss&logoColor=white) ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white) ![Gemini API](https://img.shields.io/badge/AI-Gemini_API-4285F4?logo=google&logoColor=white) ![Vercel](https://img.shields.io/badge/Hosting-Vercel-000?logo=vercel&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white) ![Auth.js](https://img.shields.io/badge/Auth.js-EC4899?logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Visual Communication](https://img.shields.io/badge/Visual_Communication-4A90E2?style=flat&logoColor=white) ![Leadership & Supervision](https://img.shields.io/badge/Leadership_&_Supervision-FF8C00?style=flat&logoColor=white) ![Strategic Planning](https://img.shields.io/badge/Strategic_Planning-32CD32?style=flat&logoColor=white)
